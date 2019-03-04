@@ -22,7 +22,8 @@ package.json ---- 配置项目要用到的依赖插件，这个文件一般不�
 
 # my-blog
 
-> A Vue.js project
+> 学习webpack
+
 
 ## Build Setup
 
